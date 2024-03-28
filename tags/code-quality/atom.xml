@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Mikel Ors - code quality</title>
+    <subtitle>Personal blog about Agile, Software Engineer best practices and something else</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://mikelors.com/tags/code-quality/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://mikelors.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-04-26T00:00:00+00:00</updated>
+    <id>https://mikelors.com/tags/code-quality/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Clean Code — A practical approach</title>
+        <published>2022-04-26T00:00:00+00:00</published>
+        <updated>2022-04-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://mikelors.com/posts/cleancodeapracticalapproach/"/>
+        <id>https://mikelors.com/posts/cleancodeapracticalapproach/</id>
+        
+        <summary type="html">&lt;p&gt;After giving some talks about Clean Code I have decided to summarize the most important things in an article. Because 
+there is a lot of posts and information in the net about Clean Code, I think that a new article talking about it simply 
+explaining some the principles is not going to be very worthy.&lt;&#x2F;p&gt;
+&lt;p&gt;In this article I will try to give you a practical approach to Clean Code. I will not go deep into the theory, &lt;strong&gt;I want 
+to show how I write Clean Code&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;mikelors.com&#x2F;posts&#x2F;cleancodeapracticalapproach&#x2F;IWantMyCodeClean.png&quot; alt=&quot;I want my code clean&quot; title=&quot;I want my code clean&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;I want &lt;del&gt;to break free&lt;&#x2F;del&gt; my code clean&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
