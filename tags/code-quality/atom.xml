@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Mikel Ors - Software Development, Agile &amp; Culture - code quality</title>
+    <subtitle>Mikel Ors&#x27; personal blog about Agile, Software Engineer best practices and something else</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://mikelors.com/tags/code-quality/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://mikelors.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-06-06T00:00:00+00:00</updated>
+    <id>https://mikelors.com/tags/code-quality/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Property based testing — A practical approach in Python with Hypothesis and Pandas</title>
+        <published>2022-06-06T00:00:00+00:00</published>
+        <updated>2022-06-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mikel Ors
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://mikelors.com/posts/propertybasedtesting/"/>
+        <id>https://mikelors.com/posts/propertybasedtesting/</id>
+        
+        <summary type="html">&lt;h2 id=&quot;what-property-based-tests-are&quot;&gt;What Property based tests are&lt;&#x2F;h2&gt;
+&lt;p&gt;Property based tests are a type of tests that &lt;strong&gt;check properties of our functions that should always be true&lt;&#x2F;strong&gt;. 
+They allow us to define a group of inputs following some rules and check that property on them in a single test.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Clean Code — A practical approach</title>
+        <published>2022-04-26T00:00:00+00:00</published>
+        <updated>2022-04-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mikel Ors
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://mikelors.com/posts/cleancodeapracticalapproach/"/>
+        <id>https://mikelors.com/posts/cleancodeapracticalapproach/</id>
+        
+        <summary type="html">&lt;p&gt;After giving some talks about Clean Code I have decided to summarize the most important things in an article. Because 
+there is a lot of posts and information in the net about Clean Code, I think that a new article talking about it simply 
+explaining some the principles is not going to be very worthy.&lt;&#x2F;p&gt;
+&lt;p&gt;In this article I will try to give you a practical approach to Clean Code. I will not go deep into the theory, &lt;strong&gt;I want 
+to show how I write Clean Code&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

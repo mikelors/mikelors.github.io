@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Mikel Ors - Software Development, Agile &amp; Culture - books</title>
+    <subtitle>Mikel Ors&#x27; personal blog about Agile, Software Engineer best practices and something else</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://mikelors.com/tags/books/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://mikelors.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-08-03T00:00:00+00:00</updated>
+    <id>https://mikelors.com/tags/books/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Book review - Accelerate by Nibole Forsgren, Jez Humble and Gene Kim</title>
+        <published>2023-08-03T00:00:00+00:00</published>
+        <updated>2023-08-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mikel Ors
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://mikelors.com/posts/bookreviewaccelerate/"/>
+        <id>https://mikelors.com/posts/bookreviewaccelerate/</id>
+        
+        <summary type="html">&lt;p&gt;Lean methodologies, DevOps, small cycles, CI&#x2F;CD, no overtime, freedom, quality, culture, sustainable work… cool stuff.
+A lot of people talk about them in positive terms but Nicole Forsgrem, Jez Humble and Gene Kim decided to go one 
+step further: &lt;strong&gt;demonstrate that these things work&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Book review - The Black book of the Programmer by Rafael Gómez Blanes</title>
+        <published>2023-08-03T00:00:00+00:00</published>
+        <updated>2023-08-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mikel Ors
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://mikelors.com/posts/bookreviewblackbookoftheprogrammer/"/>
+        <id>https://mikelors.com/posts/bookreviewblackbookoftheprogrammer/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;strong&gt;Rafael Gómez Blanes&lt;&#x2F;strong&gt; wrote this amazing book that I think is a must for all developers and managers in the IT world. 
+His experiece in the Software Development world is the key he uses to highlight what works and what does not. 
+It’s a &lt;strong&gt;book that touches&lt;&#x2F;strong&gt; almost all or perhaps &lt;strong&gt;all the parts of Software Development Culture&lt;&#x2F;strong&gt; the way I see it.&lt;&#x2F;p&gt;
+&lt;p&gt;For me, if there is a book where trying to highlight just a few quotes is difficult, this is the book. I think it 
+is also the book that I have recommended the most to friends and colleagues.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Book review - Engineering management for the rest of us by Sarah Drasner</title>
+        <published>2023-08-03T00:00:00+00:00</published>
+        <updated>2023-08-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mikel Ors
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://mikelors.com/posts/bookreviewengineeringmanagementfortherestofus/"/>
+        <id>https://mikelors.com/posts/bookreviewengineeringmanagementfortherestofus/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;strong&gt;Sarah Drasner&lt;&#x2F;strong&gt; wrote this marvelous book about technical team manager role.&lt;&#x2F;p&gt;
+&lt;p&gt;It is a fact that most of us started leading by accident. We studied to be the best technicians and, &lt;strong&gt;suddenly, 
+one day we find ourselves leading a team&lt;&#x2F;strong&gt;. And no one probably has ever told us about people, communication and 
+so many other things necessary to do it well. If this is your case, read Sarah’s book. If it is not, if you are 
+not a manager, even if you never want to be a manager… read it anyway. We should all know what a good manager does.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Book review - Remote + It doesn&#x27;t have to be crazy at work by Jason Fried and David H. Hansson</title>
+        <published>2023-08-03T00:00:00+00:00</published>
+        <updated>2023-08-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mikel Ors
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://mikelors.com/posts/bookreviewremote/"/>
+        <id>https://mikelors.com/posts/bookreviewremote/</id>
+        
+        <summary type="html">&lt;p&gt;Ok, I’ve cheated here: &lt;strong&gt;it’s not one book but two&lt;&#x2F;strong&gt;. But written by the same guys, following a similar philosophy 
+and they are very easy to read with big typeface and lots of great art. Actually they have some other cool books.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Jason Fried and David H. Hansson&lt;&#x2F;strong&gt; work at 37signals, a software company where the culture is very important and 
+special. They are &lt;strong&gt;pioneers working remotely&lt;&#x2F;strong&gt; and they encourage their people to work smart, in a calm environment, 
+at a &lt;strong&gt;sustainable pace&lt;&#x2F;strong&gt;, promoting respect for their lifes from work. They go against growth as a measure of a 
+company’s success.&lt;&#x2F;p&gt;
+&lt;p&gt;I really love these 2 books.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Book review - Slack by Tom DeMarco</title>
+        <published>2023-08-03T00:00:00+00:00</published>
+        <updated>2023-08-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mikel Ors
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://mikelors.com/posts/bookreviewslack/"/>
+        <id>https://mikelors.com/posts/bookreviewslack/</id>
+        
+        <summary type="html">&lt;p&gt;Organizations are effective only to the extent that all their workers are totally and eternally busy. Written by 
+&lt;strong&gt;Tom DeMarco&lt;&#x2F;strong&gt; more than 20 years ago, this book fights again this idea. &lt;strong&gt;Companies need workers&lt;&#x2F;strong&gt; with &amp;quot;slack&amp;quot;, &lt;strong&gt;with 
+gaps of freedom&lt;&#x2F;strong&gt; in their they by day. These gaps will allow your company to change, improve, reinvent and grow.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

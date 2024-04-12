@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Mikel Ors - Software Development, Agile &amp; Culture - communication</title>
+    <subtitle>Mikel Ors&#x27; personal blog about Agile, Software Engineer best practices and something else</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://mikelors.com/tags/communication/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://mikelors.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-08-03T00:00:00+00:00</updated>
+    <id>https://mikelors.com/tags/communication/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Book review - Engineering management for the rest of us by Sarah Drasner</title>
+        <published>2023-08-03T00:00:00+00:00</published>
+        <updated>2023-08-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mikel Ors
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://mikelors.com/posts/bookreviewengineeringmanagementfortherestofus/"/>
+        <id>https://mikelors.com/posts/bookreviewengineeringmanagementfortherestofus/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;strong&gt;Sarah Drasner&lt;&#x2F;strong&gt; wrote this marvelous book about technical team manager role.&lt;&#x2F;p&gt;
+&lt;p&gt;It is a fact that most of us started leading by accident. We studied to be the best technicians and, &lt;strong&gt;suddenly, 
+one day we find ourselves leading a team&lt;&#x2F;strong&gt;. And no one probably has ever told us about people, communication and 
+so many other things necessary to do it well. If this is your case, read Sarah’s book. If it is not, if you are 
+not a manager, even if you never want to be a manager… read it anyway. We should all know what a good manager does.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Book review - Remote + It doesn&#x27;t have to be crazy at work by Jason Fried and David H. Hansson</title>
+        <published>2023-08-03T00:00:00+00:00</published>
+        <updated>2023-08-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mikel Ors
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://mikelors.com/posts/bookreviewremote/"/>
+        <id>https://mikelors.com/posts/bookreviewremote/</id>
+        
+        <summary type="html">&lt;p&gt;Ok, I’ve cheated here: &lt;strong&gt;it’s not one book but two&lt;&#x2F;strong&gt;. But written by the same guys, following a similar philosophy 
+and they are very easy to read with big typeface and lots of great art. Actually they have some other cool books.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Jason Fried and David H. Hansson&lt;&#x2F;strong&gt; work at 37signals, a software company where the culture is very important and 
+special. They are &lt;strong&gt;pioneers working remotely&lt;&#x2F;strong&gt; and they encourage their people to work smart, in a calm environment, 
+at a &lt;strong&gt;sustainable pace&lt;&#x2F;strong&gt;, promoting respect for their lifes from work. They go against growth as a measure of a 
+company’s success.&lt;&#x2F;p&gt;
+&lt;p&gt;I really love these 2 books.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

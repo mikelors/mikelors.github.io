@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Mikel Ors - Software Development, Agile &amp; Culture - zola</title>
+    <subtitle>Mikel Ors&#x27; personal blog about Agile, Software Engineer best practices and something else</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://mikelors.com/tags/zola/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://mikelors.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-04-12T00:00:00+00:00</updated>
+    <id>https://mikelors.com/tags/zola/atom.xml</id>
+    <entry xml:lang="en">
+        <title>How I created a self-managed blog, secure and maintainable</title>
+        <published>2024-04-12T00:00:00+00:00</published>
+        <updated>2024-04-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mikel Ors
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://mikelors.com/posts/howicreatedthisblog/"/>
+        <id>https://mikelors.com/posts/howicreatedthisblog/</id>
+        
+        <summary type="html">&lt;p&gt;So, I finally made the decision to create my own personal website. Alright, I&#x27;ve purchased the domain 
+mikelors.com, but what comes next?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-i-wanted&quot;&gt;What I wanted&lt;&#x2F;h2&gt;
+&lt;p&gt;I had some clear priorities for my webpage. Mainly three&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;👷 &lt;strong&gt;Minimal maintenance&lt;&#x2F;strong&gt;: I&#x27;m aiming for a setup without the need for plugins or frequent updates. I have
+past experiences with CMSs like Joomla, Wordpress, Drupal... and they are cool, but require maintenance effort that I 
+don&#x27;t want. &lt;&#x2F;li&gt;
+&lt;li&gt;🔐 &lt;strong&gt;Secure with no effort&lt;&#x2F;strong&gt;: I don&#x27;t want a website that could be hacked easily and, at the same time, I don&#x27;t 
+want to spend time and effort on security features. &lt;&#x2F;li&gt;
+&lt;li&gt;🤌 &lt;strong&gt;Self-managed&lt;&#x2F;strong&gt;: I don&#x27;t want a SaaS platform like Wordpress.com, Blogger, Whatever where the owner could change
+their policies, change their prizes or simply ban me for any reason. &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The purpose of this article is to demonstrate how I achieved this setup. &lt;&#x2F;p&gt;
+&lt;p&gt;Long story short is asking a good friend that already had a personal website that I guessed that could have 
+similar priorities than me. &lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
