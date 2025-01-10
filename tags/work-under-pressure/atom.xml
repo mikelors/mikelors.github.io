@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Mikel Ors - Software Development, Agile &amp; Culture - work under pressure</title>
+    <subtitle>Mikel Ors&#x27; personal blog about Agile, Software Engineer best practices and something else</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://mikelors.com/tags/work-under-pressure/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://mikelors.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-08-03T00:00:00+00:00</updated>
+    <id>https://mikelors.com/tags/work-under-pressure/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Book review - The Black book of the Programmer by Rafael Gómez Blanes</title>
+        <published>2023-08-03T00:00:00+00:00</published>
+        <updated>2023-08-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mikel Ors
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://mikelors.com/posts/bookreviewblackbookoftheprogrammer/"/>
+        <id>https://mikelors.com/posts/bookreviewblackbookoftheprogrammer/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;strong&gt;Rafael Gómez Blanes&lt;&#x2F;strong&gt; wrote this amazing book that I think is a must for all developers and managers in the IT world. 
+His experiece in the Software Development world is the key he uses to highlight what works and what does not. 
+It’s a &lt;strong&gt;book that touches&lt;&#x2F;strong&gt; almost all or perhaps &lt;strong&gt;all the parts of Software Development Culture&lt;&#x2F;strong&gt; the way I see it.&lt;&#x2F;p&gt;
+&lt;p&gt;For me, if there is a book where trying to highlight just a few quotes is difficult, this is the book. I think it 
+is also the book that I have recommended the most to friends and colleagues.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Book review - Slack by Tom DeMarco</title>
+        <published>2023-08-03T00:00:00+00:00</published>
+        <updated>2023-08-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mikel Ors
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://mikelors.com/posts/bookreviewslack/"/>
+        <id>https://mikelors.com/posts/bookreviewslack/</id>
+        
+        <summary type="html">&lt;p&gt;Organizations are effective only to the extent that all their workers are totally and eternally busy. Written by 
+&lt;strong&gt;Tom DeMarco&lt;&#x2F;strong&gt; more than 20 years ago, this book fights again this idea. &lt;strong&gt;Companies need workers&lt;&#x2F;strong&gt; with &amp;quot;slack&amp;quot;, &lt;strong&gt;with 
+gaps of freedom&lt;&#x2F;strong&gt; in their they by day. These gaps will allow your company to change, improve, reinvent and grow.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

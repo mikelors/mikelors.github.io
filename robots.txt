@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mikelors.com/sitemap.xml

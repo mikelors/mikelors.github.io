@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Mikel Ors - Software Development, Agile &amp; Culture - work smart</title>
+    <subtitle>Mikel Ors&#x27; personal blog about Agile, Software Engineer best practices and something else</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://mikelors.com/tags/work-smart/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://mikelors.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-01-10T00:00:00+00:00</updated>
+    <id>https://mikelors.com/tags/work-smart/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Estaré en la Previa de la Bilbostack&#x27;25</title>
+        <published>2025-01-10T00:00:00+00:00</published>
+        <updated>2025-01-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mikel Ors
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://mikelors.com/posts/bilbostack25presentingtopic/"/>
+        <id>https://mikelors.com/posts/bilbostack25presentingtopic/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;mikelors.com&#x2F;posts&#x2F;bilbostack25presentingtopic&#x2F;previaBilbostack.png&quot; alt=&quot;Previa Bilbostack&quot; title=&quot;Previa Bilbostack&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Este es el abstract de la charla que daré en la &lt;a href=&quot;https:&#x2F;&#x2F;bilbostack.com&#x2F;laprevia&#x2F;&quot;&gt;Previa de la BilboStack&lt;&#x2F;a&gt; 
+el próximo 24 de enero rodeado de grandes profesionales:&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;la-trampa-del-trabajo-duro-en-el-desarrollo-de-software&quot;&gt;La trampa del trabajo duro en el desarrollo de software&lt;&#x2F;h2&gt;
+&lt;p&gt;Trabajar muy duro siempre se ha considerado como algo positivo. Entendiéndolo como el hecho de &lt;strong&gt;esforzarse al 
+máximo&lt;&#x2F;strong&gt;, asegurar que siempre estamos &lt;strong&gt;permanentemente ocupados&lt;&#x2F;strong&gt; haciendo cosas e incluso yendo más allá de lo 
+necesario metiendo las &lt;strong&gt;horas extra&lt;&#x2F;strong&gt; que haga falta. ¿Quién no querría un equipo formado por personas que trabajan 
+así? Pues si lo que queremos hacer es Software de calidad y que aporte valor, tal vez trabajar así no sea la mejor idea.&lt;&#x2F;p&gt;
+&lt;p&gt;Creo en la Ingeniería de Software como un trabajo intelectual y creativo que se realiza en colaboración 
+con personas, en un entorno en constante cambio. En esta charla, &lt;strong&gt;exploraremos el principio de &amp;quot;Work Smarter, 
+Not Harder&amp;quot; aplicado al desarrollo de software&lt;&#x2F;strong&gt;. Explicaré por qué creo que el trabajo duro puede afectar 
+negativamente no sólo a los desarrolladores, sino también a la calidad del software que producen. También 
+compartiré ideas y estrategias que nos han funcionado a mí y a mis equipos, siempre con el objetivo de generar 
+software de calidad que aporte valor.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;(click on Read More to see the English version)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
